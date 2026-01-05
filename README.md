@@ -50,6 +50,13 @@ Animacije se izvajajo sočasno z `AnimatorSet`.
 [Click here to watch the demo video](demo/demo.mp4)
 
 ---
+##  Demo video- uporaba v lastnem projektu ali nalogi
+
+Android Splash Screen sem tudi uporabila v svoji drugi aplikaciji pri predmetu PORA.
+
+[Click here to watch the demo video](demo/demo_girlstripplanner.mp4)
+
+---
 
 ##  Utemeljitev izbire tehnologije
 
