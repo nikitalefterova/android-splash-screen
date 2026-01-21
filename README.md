@@ -56,6 +56,8 @@ Android Splash Screen sem tudi uporabila v svoji drugi aplikaciji pri predmetu P
 
 [Click here to watch the demo video](demo/demo_girlstripplanner.mp4)
 
+[Povezava do repozitorija od lastnega projekta](https://github.com/3-letnik-UN-2025-2026/pora-my-second-app-nikitalefterova)
+
 ---
 
 ##  Utemeljitev izbire tehnologije
